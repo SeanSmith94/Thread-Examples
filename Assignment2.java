@@ -1,8 +1,5 @@
 /**
- * 
- * Student Name: Seán Smith
- * Student number: 2904982
- *
+ * Name: Seán Smith
  */
 
 import java.util.concurrent.*;
